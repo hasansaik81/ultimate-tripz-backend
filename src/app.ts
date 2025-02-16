@@ -11,7 +11,7 @@ app.use(express.urlencoded({ extended: true }))
 app.use(
   cors({
     origin: [
-      'https://travel-tips-eight.vercel.app/',
+      // '',
       
       'http://localhost:3000',
     ], // Allow your frontend URL
@@ -31,3 +31,5 @@ app.use(globalErrorHandler)
 app.use(notFound)
 
 export default app
+
+// https://travel-tips-eight.vercel.app/

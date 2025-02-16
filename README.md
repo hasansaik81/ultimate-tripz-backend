@@ -1,6 +1,7 @@
 # Ultimate Tripz
 
-### Live URL: https://ultimate-tripz-backend-main.vercel.app
+<!-- https://ultimate-tripz-backend-main-b1svl0oaq-hasans-projects-3bda48be.vercel.app -->
+https://ultimate-tripz-backend-main.vercel.app
 
 ### Technology used
 
